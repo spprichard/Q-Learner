@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "ddd1ea32557321c5aa26db3dfb7c997e"
+build_time: [1511376398, 138109000]
+inputs:
+  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumLogger.swift": [1511314672, 0]
+  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/HeliumLogger.git-2106793442615829935/Sources/HeliumLogger/HeliumStreamLogger.swift": [1511314672, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "68fcfe0af52a8d3f86b65e509e9ee466"
+build_time: [1511375948, 280594000]
+inputs:
+  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/LoggerAPI.git--6449715459278086880/Sources/LoggerAPI/Logger.swift": [1511313953, 0]
