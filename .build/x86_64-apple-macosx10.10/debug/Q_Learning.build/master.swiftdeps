@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
-options: "42646721520b07c3b8e1cc7cc67b0c24"
-build_time: [1511376398, 671080000]
-inputs:
-  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/Sources/Q-Learning/main.swift": [1511321050, 0]

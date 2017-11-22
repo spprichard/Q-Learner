@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
-options: "35e0e03c4b7bb4915bc02d8fcf7bf49a"
-build_time: [1511375953, 385840000]
-inputs:
-  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/BlueSSLService.git--6577639804771281610/Sources/SSLService/SSLService.swift": [1511313954, 0]

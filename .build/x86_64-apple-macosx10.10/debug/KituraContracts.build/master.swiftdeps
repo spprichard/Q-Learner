@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
-options: "82caa69dd6d8f2bab90854edf220d855"
-build_time: [1511376398, 69312000]
-inputs:
-  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/ClousureAliases.swift": [1511313955, 0]
-  "/Users/stevenprichard/Developer/Swift/Kitura/Q-Learning/.build/checkouts/KituraContracts.git--3897699854862625585/Sources/KituraContracts/Contracts.swift": [1511361294, 0]
