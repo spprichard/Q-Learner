@@ -1,5 +1,10 @@
 import Kitura
 import HeliumLogger
+#if os(Linux)
+    import Glibc
+#else
+    import Darwin
+#endif
 
 HeliumLogger.use()
 
