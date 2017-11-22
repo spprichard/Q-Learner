@@ -1,1 +1,1 @@
-web: ./.build/debug/Q-Learningr
+web: ./.build/debug/Q-Learning
